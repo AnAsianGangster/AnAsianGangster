@@ -1,4 +1,4 @@
-### Hi there, `An Asian Gangster` here. :smiling_imp:
+### Hi there, `An Asian Gangster` here. :vulcan_salute:
 ---
 <!-- [![jofftiquez' github stats](https://github-readme-stats.vercel.app/api?username=anasiangangster&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 ---
