@@ -2,7 +2,7 @@
 ---
 ## I'm a Student and Developer !!
 - 🔭 I'm currently working on graduation
-- 🌱 I’m currently learning everything 🤣 , mostly <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> related.
+- 🌱 I’m currently learning everything 🤣 , mostly <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> related.
 - 🥅 2020 Goals: Learn more and contribute more
 - ⚡ Fun fact: I love ASCII art
 ---
