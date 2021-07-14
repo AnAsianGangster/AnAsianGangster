@@ -4,8 +4,8 @@
 
 ## I'm more of a backend developer.
 
--   🔭 I'm currently working on a Vue Gin Redis Mysql project.
--   🌱 I’m currently learning **Go, Vue and Algorithms**
+-   🔭 I'm currently working on a Spring Boot project.
+-   🌱 I’m currently learning **Java, MySQL and Vue**
 -   🥅 2021 Goals: Learn more
 -   ⚡ a Paradox gamer
 
