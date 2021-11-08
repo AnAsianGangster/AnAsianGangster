@@ -4,8 +4,8 @@
 
 ## I'm a backend software engineer.
 
--   🔭 I'm currently working in Ant Group Alipay team.
--   🌱 I’m currently working with **Java**, if you have hardcore questions with Java tag me.
+-   🔭 I'm currently working in Ant Group Alipay team, doing domain stuff.
+-   🌱 I’m currently working with **Java** . if you have hardcore questions with Java, tag me.
 -   🥅 2022 Goal: not survive, but strive.
 -   ⚡ a Paradox gamer, carnivore, no-sugar lifestyle believer
 
